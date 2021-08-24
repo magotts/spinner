@@ -1,5 +1,3 @@
-process.stdout.write('hello from spinner1.js... \rheyyy\n');
-
 const symbs = "|/-\\|/-\\|";
 
 let x = 800;
